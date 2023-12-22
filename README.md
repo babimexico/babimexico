@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @babimexico
-- 👀 I’m interested in ML,AI and Cloud
-- 🌱 I’m currently learning Aws Cloud Architecture 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ML,AI and Cybersecurity
+- 🌱 I’m currently learning all three 
+- 💞️ I’m looking to collaborate on all 3
+- 📫 How to reach me instagram @elbabimexico
 
 <!---
 babimexico/babimexico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
