@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @babimexico
+- 👋 Hi, I’m Art😤
 - 👀 I’m interested in ML,AI and Cybersecurity
 - 🌱 I’m currently learning all three 
 - 💞️ I’m looking to collaborate on all 3
